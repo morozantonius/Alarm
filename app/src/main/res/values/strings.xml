@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarmc</string>
+    <string name="set_alarm_button_text">Add Alarm</string>
+    <string name="alarm_set_message">The alarm clock is set to %1$s</string>
+</resources>
